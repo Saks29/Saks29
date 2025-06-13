@@ -3,15 +3,15 @@
 ____________________________________________________________________________________
 
 # 🎯 About Me
-I'm a passionate Data Analytics enthusiast on a mission to transform raw data into meaningful insights! Currently diving deep into the world of data science and analytics, I'm building my expertise in various tools and techniques that make data tell compelling stories.
+-> I'm a passionate Data Analytics enthusiast on a mission to transform raw data into meaningful insights! Currently diving deep into the world of data science and analytics, I'm building my expertise in various tools and techniques that make data tell compelling stories.
 ____________________________________________________________________________________
 
 ## 🌟 What Drives Me
-📈 Data Storytelling: Uncovering hidden patterns and trends in complex datasets
-🔍 Problem Solving: Using analytical thinking to solve real-world business challenges
-📊 Visualization: Creating compelling dashboards that make data accessible to everyone
-🎯 Continuous Learning: Always exploring new tools and methodologies in the data space
-🛠️ My Data Analytics Toolkit
+- 📈 Data Storytelling: Uncovering hidden patterns and trends in complex datasets
+- 🔍 Problem Solving: Using analytical thinking to solve real-world business challenges
+- 📊 Visualization: Creating compelling dashboards that make data accessible to everyone
+- 🎯 Continuous Learning: Always exploring new tools and methodologies in the data space
+- 🛠️ My Data Analytics Toolkit
 ____________________________________________________________________________________
 
 ## 📊 Core Skills
