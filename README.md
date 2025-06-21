@@ -1,7 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ea1a06d2-2632-4927-b891-77d97e862d6c)
-
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="40" height="40" alt="smile" />
 ____________________________________________________________________________________
-😄👋
 # 🎯 About Me
 I'm a passionate Data Analytics enthusiast on a mission to transform raw data into meaningful insights! Currently diving deep into the world of data science and analytics, I'm building my expertise in various tools and techniques that make data tell compelling stories.
 ____________________________________________________________________________________
