@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/ea1a06d2-2632-4927-b891-77d97e862d6c)
+![image](![Colorful Playful Modern Social Media Report Presentation](https://github.com/user-attachments/assets/f9414b92-5388-4e20-8740-910be700ab51)
+)
 
 ____________________________________________________________________________________
 # 🎯 About Me
